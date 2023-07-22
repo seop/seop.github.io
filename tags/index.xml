@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on io.github.seop</title>
+    <link>https://seop.github.io/tags/</link>
+    <description>Recent content in Tags on io.github.seop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Wed, 01 Feb 2012 09:00:00 +0900</lastBuildDate><atom:link href="https://seop.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>c</title>
+      <link>https://seop.github.io/tags/c/</link>
+      <pubDate>Wed, 01 Feb 2012 09:00:00 +0900</pubDate>
+      
+      <guid>https://seop.github.io/tags/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>client</title>
+      <link>https://seop.github.io/tags/client/</link>
+      <pubDate>Wed, 01 Feb 2012 09:00:00 +0900</pubDate>
+      
+      <guid>https://seop.github.io/tags/client/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network</title>
+      <link>https://seop.github.io/tags/network/</link>
+      <pubDate>Wed, 01 Feb 2012 09:00:00 +0900</pubDate>
+      
+      <guid>https://seop.github.io/tags/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>server</title>
+      <link>https://seop.github.io/tags/server/</link>
+      <pubDate>Wed, 01 Feb 2012 09:00:00 +0900</pubDate>
+      
+      <guid>https://seop.github.io/tags/server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tcp</title>
+      <link>https://seop.github.io/tags/tcp/</link>
+      <pubDate>Wed, 01 Feb 2012 09:00:00 +0900</pubDate>
+      
+      <guid>https://seop.github.io/tags/tcp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

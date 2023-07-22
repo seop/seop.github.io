@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>server on io.github.seop</title>
+    <link>https://seop.github.io/tags/server/</link>
+    <description>Recent content in server on io.github.seop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Wed, 01 Feb 2012 09:00:00 +0900</lastBuildDate><atom:link href="https://seop.github.io/tags/server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TCP 서버/클라이언트 프로그래밍</title>
+      <link>https://seop.github.io/post/c-network/</link>
+      <pubDate>Wed, 01 Feb 2012 09:00:00 +0900</pubDate>
+      
+      <guid>https://seop.github.io/post/c-network/</guid>
+      <description>클라이언트 프로그램 클라이언트 프로그램은 1. 소켓 생성, 2. 서버의 인터넷 주소 설정, 3. 연결 요청, 4. 통신(읽기/쓰기), 5. 연결 종료 순서로 진행된다.
+소켓 생성 #include &amp;lt;sys/types.h&amp;gt; #include &amp;lt;sys/socket.h&amp;gt; int main() { ... int ssock; if((ssock # socket(PF_INET, SOCK_STREAN, IPPROTO_TCP)) &amp;lt; 0) { perror(&amp;#34;socket error : &amp;#34;); exit(1); } ... } 소켓을 생성한다. socket이라는 함수에 인자값을 주어 소켓 생성에 성공하면, 0보다 큰값의 디스크립션을 반환한다. 보통 3 이상의 값이 반환된다. 0은 표준입력, 1은 표준출력, 2는 표준에러로 예약되어 있다.</description>
+    </item>
+    
+  </channel>
+</rss>

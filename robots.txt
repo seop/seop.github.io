@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://seop.github.io/sitemap.xml
